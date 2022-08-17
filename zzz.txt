@@ -1,0 +1,2 @@
+- how to deal with speed of speech?
+    fast speech and slow speech, how to tokenize the wav file?
